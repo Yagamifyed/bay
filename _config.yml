@@ -11,34 +11,25 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
+    - name: About
       slug: /
-    - name: Work
-    - name: Blog
-
+    - name: Research
+    - name: Teaching
+    # - name: Other
+    
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: levin.guever[at]rwi.uzh.ch
+      link: mailto:nbjmup;mfwjo/hvfwfsAsxj/v{i/di
   follow:
+    - name: Researchgate
+      link: https://researchgate.net/profile/levin-guever
     - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+      link: https://twitter.com/levinguever
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
-    - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: https://www.linkedin.com/in/levin-g%C3%BCver-091171178/
 
 # Build settings
 markdown: kramdown
