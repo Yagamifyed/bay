@@ -5,6 +5,16 @@ slug: /work
 ---
 # Research
 
+### Master theses
+
+I wrote three theses in fulfillment of my degree. 
+
+*Action, Intention, and Criminal Justice*
+
+
+
+
+
 My research follows along two strands. The first strand can be sorted at the intersection between law and philosophy. 
 
 
